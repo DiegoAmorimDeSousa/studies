@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "sash.hoverBorder": "#2f7c47"
+    },
+    "peacock.color": "#215732",
+    "peacock.affectActivityBar": false,
+    "peacock.affectStatusBar": false,
+    "peacock.affectTitleBar": false
+}
